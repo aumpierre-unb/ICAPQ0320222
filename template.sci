@@ -1,13 +1,13 @@
-#Universidade de Brasília
-#ICAPQ – IQD0003
-#Turma T01                       # Ajuste se necessário!!
-#Prova P1 - 2022/2 – 13/12/2022  # Ajuste se necessário!!
-#Prof. Alexandre Umpierre
+//Universidade de Brasília
+//ICAPQ – IQD0003
+//Turma T01                       // Ajuste se necessário!!
+//Prova P1 - 2022/2 – 13/12/2022  // Ajuste se necessário!!
+//Prof. Alexandre Umpierre
 
-#Nome: xxx
-#Matrícula: xxx
+//Nome: xxx
+//Matrícula: xxx
 
-#=
+/*
 Instruções:
 1)  Leia atentamente os enunciados.
 2)  Não é necessário copiar os enunciados nas respostas.
@@ -39,7 +39,7 @@ Instruções:
     nome, matrícula, número e resolução da questão.
 13) Este bloco de comentários deve ser apagado para
     entrega do arquivo.
-=#
+*/
 
-#Questão xxx:
-#Apresente a resolução aqui
+//Questão xxx:
+//Apresente a resolução aqui
